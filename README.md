@@ -22,8 +22,8 @@
 
 Here’s a quick look at the Image Search App:
 
-![App Screenshot](./images/screenshot.png)
-*
+![App Screenshot](images/screenshot.png)
+
 
 ## 🚀 Getting Started
 
